@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# per-machine settings and captures
+config.json
+state_*.png
+stato_*.png
